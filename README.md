@@ -1,4 +1,4 @@
-### LinuxAssignment3
+# Linux Assignment 3
 ### Create an SSH key pair
 1. First create a new .ssh directory, run this command in your terminal.It doesn't matter if it exsisted.
 ```
@@ -178,4 +178,4 @@ sudo systemctl restart nginx
 ```
 curl <your-ip-address>
 ```
-Then you can go to your ip address to see the page.
+Now, your Debian 12 server on DigitalOcean is set up with a new user, SSH security measures, Nginx installed, and a sample website configured. You can access your website by navigating to your server's IP address in a web browser.
